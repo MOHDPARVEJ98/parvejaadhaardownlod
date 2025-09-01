@@ -1,0 +1,46 @@
+{
+  "candidates": [
+    {
+      "id": "bjp_1",
+      "partyName": "BJP",
+      "partySymbolUrl": "https://mohdparvej98.github.io/parvejaadhaardownlod/bjplogo.png",
+      "candidateImageUrl": "https://via.placeholder.com/256?text=Candidate+Modi",
+      "candidateName": "Narendra Modi"
+    },
+    {
+      "id": "congress_1",
+      "partyName": "CONGRESS",
+      "partySymbolUrl": "https://mohdparvej98.github.io/parvejaadhaardownlod/congresslogo.png",
+      "candidateImageUrl": "https://via.placeholder.com/256?text=Candidate+Gandhi",
+      "candidateName": "Rahul Gandhi"
+    },
+    {
+      "id": "aap_1",
+      "partyName": "AAP",
+      "partySymbolUrl": "https://mohdparvej98.github.io/parvejaadhaardownlod/aaplogo.png",
+      "candidateImageUrl": "https://via.placeholder.com/256?text=Candidate+Kejriwal",
+      "candidateName": "Arvind Kejriwal"
+    },
+    {
+      "id": "tmc_1",
+      "partyName": "TMC",
+      "partySymbolUrl": "https://mohdparvej98.github.io/parvejaadhaardownlod/tmclogo.png",
+      "candidateImageUrl": "https://via.placeholder.com/256?text=Candidate+Banerjee",
+      "candidateName": "Mamata Banerjee"
+    },
+    {
+      "id": "inld_1",
+      "partyName": "INLD",
+      "partySymbolUrl": "https://mohdparvej98.github.io/parvejaadhaardownlod/inldlogo.png",
+      "candidateImageUrl": "https://via.placeholder.com/256?text=Candidate+INLD",
+      "candidateName": "Abhay Chautala"
+    },
+    {
+      "id": "bsp_1",
+      "partyName": "BSP",
+      "partySymbolUrl": "https://mohdparvej98.github.io/parvejaadhaardownlod/bsplogo.pngl",
+      "candidateImageUrl": "https://mohdparvej98.github.io/parvejaadhaardownlod/bsplogo.png",
+      "candidateName": "Mayavati"
+    }
+  ]
+}
